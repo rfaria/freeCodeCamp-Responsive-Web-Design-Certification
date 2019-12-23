@@ -4,7 +4,7 @@
 
 ## Basic HTML and HTML5
 
-View project here: https://htmlpreview.github.io/?https://github.com/rfaria/freeCodeCamp-Responsive-Web-Design-Certification/blob/master/Basic%20HTML%20and%20HTML5/CatPhotoApp.html
+View project here: <a href="https://htmlpreview.github.io/?https://github.com/rfaria/freeCodeCamp-Responsive-Web-Design-Certification/blob/master/Basic%20HTML%20and%20HTML5/CatPhotoApp.html">Link</a>
 
 ## Basic CSS
 ## Applied Visual Design
